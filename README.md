@@ -32,3 +32,11 @@ git clone https://github.com/osyo-manga/unite-option ~/.vim/bundle/unite-option
 Unite option
 ```
 
+
+## Key mapping
+
+|Key|Description|
+|:--|:--|
+|p|Preview help|
+|e|Edit option|
+
